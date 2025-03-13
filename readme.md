@@ -6,7 +6,7 @@
 
 ## 📘Ementa
 
-### MySQL e JSON : Persistindo JSON de maneira eficiente
+### HTML e CSS: praticando HTML/CSS
 
 - Construir um site utilizando HTML e CSS
 - Identificar elementos e estilos através do Figma
@@ -18,8 +18,8 @@
 ## 🖥️ Tecnologias
 
 <div>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />
-  <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff" />  
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff">
 </div>
 
 ## 🧑‍🏫 Instrutor(es)
