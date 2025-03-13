@@ -27,6 +27,6 @@
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/51282495?v=4" width=115><br><sub>Mônica Hillman</sub>](https://github.com/MonicaHillman) |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
-## Screnshot
+## 💻 Screenshot
 
 <img loading="lazy" src="./img/screenshot.png" style="width: 100%" />
